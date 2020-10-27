@@ -2,7 +2,6 @@
 
 ## Introduction
 
-## Sustainability and Cloud
 ## United Nations SDG Goals
 List of [the goals](https://sdgs.un.org/goals) on the UN Website, additional explanation on [wikipedia](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
 
